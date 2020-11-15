@@ -15,6 +15,7 @@ trae la experiencia de construir programas reales.
 
 ### Paralelo A
 - Luis, https://github.com/lsantiagoqc
+- Carlos Ledesma, https://github.com/CarlosLedesma
 ...
 
 ### Paralelo B
