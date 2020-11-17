@@ -24,6 +24,7 @@ trae la experiencia de construir programas reales.
 - Luis Jaramillo, https://github.com/luisjaramillo6
 - Luis Febre, https://github.com/febrel
 - Richard Remache, https://github.com/Richard-Remache
+- Freddy Cumbicus, https://github.com/Freddy-Cumbicus
 
 
 ### Paralelo B
