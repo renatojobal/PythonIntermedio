@@ -11,6 +11,7 @@ colaborador_2020["2"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["3"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["4"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["5"] = {"Nombre":"CRISTHIAN MICHAEL JIMENEZ", "Email:": "www.michaelj@hotmail.es"}
+colaborador_2020["6"] = {"Nombre":"René Ludeña", "Email:": "renejavier1102@gmail.com"}
 colaborador_2020["6"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["7"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["8"] = {"Nombre":"Anthony Ortiz", "Email:": "ajortiz4@utpl.edu.ec"}
